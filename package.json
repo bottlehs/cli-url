@@ -1,5 +1,5 @@
 {
-  "name": "my-cli",
+  "name": "cli-url",
   "version": "1.0.0",
   "description": "url command line test",
   "scripts": {
